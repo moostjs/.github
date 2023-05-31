@@ -1,7 +1,7 @@
 # moostjs
 
 <p align="center">
-<img src="moost-logo.png" width="450px"><br>
+<img src="https://github.com/moostjs/moostjs/blob/main/moost-logo.png" width="450px"><br>
 <a  href="https://github.com/moostjs/moostjs/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </a>
